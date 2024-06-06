@@ -1,0 +1,25 @@
+.divCards2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    padding-top: 3%;
+    
+}
+.divCard1{
+    width: 30vh;
+    height: 15vh;
+    background-color: #F2DEA2;
+    border-radius: 10px 5px 0px 0px;
+    
+}
+a{
+    text-decoration: aqua;
+}
+.divCardTittle{
+    text-align: center;
+    background-color: #2D548D;
+}
+
+.divButtons a{
+    margin-left: 40px;
+}

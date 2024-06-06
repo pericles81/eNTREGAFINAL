@@ -1,0 +1,44 @@
+.divForm{
+    width: 60%;
+    height: 80vh;
+    margin-left: 20%;
+    margin-bottom: 10vh;
+    padding-left: 4%;
+    padding-top: 5vh;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0px 4px 5px 2px rgba(0, 0, 0, 0.232);
+    margin-top: 10vh;
+}
+.divForm button{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    margin-left: 5vh;
+    width: 50.4vw;
+    height: 5vh;
+    background-color: #ffa413;
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 4px 5px 2px rgba(0, 0, 0, 0.14);
+}
+
+.divForm h2{
+    margin-bottom: 3vh;
+    margin-left: 5vh;
+}
+.divForm select{
+    margin-top: 3vh;
+    margin-left: 5vh;
+    margin-bottom: 2vh;
+    width: 50vw;
+    height: 5vh;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 4px 5px 2px rgba(0, 0, 0, 0.14);
+}
+
+.valide{
+    color:red;
+    margin-left: 3vw;
+}

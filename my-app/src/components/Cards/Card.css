@@ -1,0 +1,39 @@
+.divCard{
+    width: 30vh;
+    padding-bottom: 1vh;
+    background-color: whitesmoke;
+    margin-left: 30px;
+    border-radius: 10px;
+    margin-bottom: 3%;
+    box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, 0.319);
+}
+.divCard img{
+    border-radius: 50%;
+    height: 20vh;
+    width: 20vh;
+    margin-top: -12vh;
+    margin-left: 4.6vh;
+}
+.divCard3 {
+    margin-top: 1vh;
+    margin-left: 1vh;
+    text-align: start;
+}
+.divCard4 {
+    margin-top: 2vh;
+    display: flex;
+    justify-content: space-evenly;
+}
+.buttonDelete{
+    background-color: red;
+    color: #fff;
+    border: none;
+    border-radius: 2px;
+}
+.buttonPut{
+    background-color: rgb(41, 63, 233);
+    color: #fff;
+    border: none;
+    border-radius: 2px;
+}
+

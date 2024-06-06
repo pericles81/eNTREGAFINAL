@@ -1,0 +1,12 @@
+.div-main{
+    margin-left: 30vw;
+    margin-top: 10vh;
+}
+.div-main p{
+    font-size: 2em;
+}
+
+.div-main img{
+    width: 35vw;
+    border-radius: 5px;
+}

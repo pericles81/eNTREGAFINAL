@@ -1,0 +1,9 @@
+.divFooter{
+    display: flex;
+    justify-content: space-around;
+    background-color: #F3A615 ;
+    color:red;
+    padding-top: 5vh;
+    height: 20vh;
+    margin-top: 25vh;
+}
